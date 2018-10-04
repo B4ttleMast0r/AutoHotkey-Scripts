@@ -15,7 +15,8 @@ How-To:
 		5. Now the Program should be running.
 		Press Alt+F7 ( the Alt Key and the F7 Key at the same Time)
 		to focus your task bar, effectively defocusing all other windows.
-		6. extra info: select "Edit" to edit the file, if you know what you're doing ( Tutorial: https://autohotkey.com/docs/Tutorial.htm )
+		6. extra info: select "Edit" to edit the file, if you know what you're doing 
+		( Tutorial: https://autohotkey.com/docs/Tutorial.htm )
 	Stopping the script:
 		1. Locate where your Process Symbols are displayed 
 		( on Windows normally the bottom-right-corner of your screen,
@@ -24,7 +25,8 @@ How-To:
 		if it's not there click on the "more" arrow to see the rest of the symbols, then rightclick the icon
 		3. click "Exit"
 		4. extra info: click "Pause Script" to temporarily pause the script. Click it again later to resume the script
-		click "Edit this Script" to edit the script if you know what you're doing ( Tutorial: https://autohotkey.com/docs/Tutorial.htm )
+		click "Edit this Script" to edit the script if you know what you're doing 
+		( Tutorial: https://autohotkey.com/docs/Tutorial.htm )
 		click "Reload this Script" to apply changes you made to the script while it was running
 Help:
 	If you have Problems with my Hotkey Program, feel free to contact me on Discord ( BattleMaster#5412 )
@@ -32,6 +34,6 @@ Help:
 	Official Forums: https://autohotkey.com/boards/
 	Help with creating your own script: https://autohotkey.com/docs/Tutorial.htm
 License: CC BY-NC 4.0 ( https://creativecommons.org/licenses/by-nc/4.0/ ,
- https://creativecommons.org/licenses/by-nc/4.0/legalcode )
+https://creativecommons.org/licenses/by-nc/4.0/legalcode )
 Credits to "Linear Spoon" on the AutoHotkey Forums for the Idea 
- ( https://autohotkey.com/board/topic/95315-defocus-window-without-focusing-anything-else/ )
+( https://autohotkey.com/board/topic/95315-defocus-window-without-focusing-anything-else/ )
