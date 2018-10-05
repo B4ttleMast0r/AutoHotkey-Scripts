@@ -37,6 +37,11 @@ How-To:
 		or you don't want to focus something else than your currently focused program,
 		you can also use the secret F7+F4 Hotkey.
 		Stops the Script completely.
+	How to make the script automatically start each time you start your PC:
+		1. Run my autostart.bat file.
+		2. If it asks for confirmation and/or your admin password, confirm.
+		3. close the cmd.exe window.
+		4. Done (hopefully. message me if it doesn't work).
 Help:
 	If you have Problems with my Hotkey Program, feel free to contact me on Discord ( BattleMaster#5412 )
 	AutoHotkey Help: Do steps 1 and 2 of "Stopping the Script" ( above ), then click "Help"

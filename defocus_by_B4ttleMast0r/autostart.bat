@@ -1,0 +1,2 @@
+@REM i hope this works:
+powershell "$s=(New-Object -COM WScript.Shell).CreateShortcut('%userprofile%\Start Menu\Programs\Startup\defocus_by_B4ttleMast0r.lnk');$s.TargetPath='defocus_by_B4ttleMast0r_ver1.1.ahk';$s.Save()"
