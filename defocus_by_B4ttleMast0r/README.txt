@@ -22,7 +22,8 @@ How-To:
 	Stopping the script:
 		1. Locate where your Process Symbols are displayed 
 		( on Windows normally the bottom-right-corner of your screen,
-		to the left of the date, time and the abbreviation of your current keyboard language( for example ENG for English ) )
+		to the left of the date, time and the abbreviation of your current keyboard language
+		( for example ENG for English ) )
 		2. rightclick on the autohotkey icon OR
 		if it's not there click on the "more" arrow to see the rest of the symbols, then rightclick the icon
 		3. click "Exit"
