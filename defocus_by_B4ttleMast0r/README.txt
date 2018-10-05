@@ -1,5 +1,6 @@
 Original creation of this README: 4. October. 2018; AutoHotkey 1.1
-Latest Edit:
+Latest Edit: 5. October 2018, AHK 1.1
+defocus_by_B4ttleMast0r version 1.1
 READ THE WHOLE README!
 How-To below.
 Description:
@@ -28,7 +29,13 @@ How-To:
 		4. extra info: click "Pause Script" to temporarily pause the script. Click it again later to resume the script
 		click "Edit this Script" to edit the script if you know what you're doing 
 		( Tutorial: https://autohotkey.com/docs/Tutorial.htm )
+		I recommend using the Notepad++ Text Editor: https://notepad-plus-plus.org/
 		click "Reload this Script" to apply changes you made to the script while it was running
+		5. if you can't use this Method, 
+		for example because a program locks you from seeing the symbols 
+		or you don't want to focus something else than your currently focused program,
+		you can also use the secret F7+F4 Hotkey.
+		Stops the Script completely.
 Help:
 	If you have Problems with my Hotkey Program, feel free to contact me on Discord ( BattleMaster#5412 )
 	AutoHotkey Help: Do steps 1 and 2 of "Stopping the Script" ( above ), then click "Help"
