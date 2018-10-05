@@ -1,5 +1,5 @@
 Original creation of this README: 4. October. 2018; AutoHotkey 1.1
-Latest Edit: 5. October 2018, AHK 1.1
+Latest Edit: 6. October 2018, AHK 1.1
 defocus_by_B4ttleMast0r version 1.1 (release 1.1.1)
 READ THE WHOLE README!
 How-To below.
