@@ -1,4 +1,5 @@
-4. October. 2018; AutoHotkey 1.1
+Original creation of this README: 4. October. 2018; AutoHotkey 1.1
+Latest Edit:
 READ THE WHOLE README!
 How-To below.
 Description:
@@ -33,7 +34,10 @@ Help:
 	AutoHotkey Help: Do steps 1 and 2 of "Stopping the Script" ( above ), then click "Help"
 	Official Forums: https://autohotkey.com/boards/
 	Help with creating your own script: https://autohotkey.com/docs/Tutorial.htm
-License: CC BY-NC 4.0 ( https://creativecommons.org/licenses/by-nc/4.0/ ,
-https://creativecommons.org/licenses/by-nc/4.0/legalcode )
+License:
+	CC BY-NC 4.0 ( https://creativecommons.org/licenses/by-nc/4.0/ ,
+	https://creativecommons.org/licenses/by-nc/4.0/legalcode )
+	Also see LICENSE.txt
+
 Credits to "Linear Spoon" on the AutoHotkey Forums for the Idea 
 ( https://autohotkey.com/board/topic/95315-defocus-window-without-focusing-anything-else/ )
