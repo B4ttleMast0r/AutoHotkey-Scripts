@@ -9,4 +9,7 @@
 	;Ensures a consistent starting directory.
 ;my code
 	;Press ALt+F7 to activate
-	!F7::WinActivate, ahk_class Shell_TrayWnd
+	!F7::
+		WinActivate, ahk_class Shell_TrayWnd
+	F7::
+		Send {F7}
